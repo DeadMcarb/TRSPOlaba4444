@@ -1,4 +1,4 @@
-package org.example.trspolaba4.model;
+package org.example.trspolaba4;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

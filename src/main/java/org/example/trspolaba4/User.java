@@ -1,4 +1,4 @@
-package org.example.trspolaba4.model;
+package org.example.trspolaba4;
 
 public class User {
     private final int id;

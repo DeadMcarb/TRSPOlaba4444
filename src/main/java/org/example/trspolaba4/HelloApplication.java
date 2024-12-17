@@ -1,4 +1,4 @@
-package com.example.trspolab4;
+package org.example.trspolaba4;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
